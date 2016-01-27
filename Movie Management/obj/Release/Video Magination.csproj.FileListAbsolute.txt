@@ -1,0 +1,54 @@
+d:\projects\Movie Management\Movie Management\bin\Release\Movie Management.exe.config
+d:\projects\Movie Management\Movie Management\bin\Release\Movie Management.exe
+d:\projects\Movie Management\Movie Management\bin\Release\Movie Management.pdb
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.Auth.dll
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.Auth.PlatformServices.dll
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.Core.dll
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.dll
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.PlatformServices.dll
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.YouTube.v3.dll
+d:\projects\Movie Management\Movie Management\bin\Release\HtmlAgilityPack.dll
+d:\projects\Movie Management\Movie Management\bin\Release\log4net.dll
+d:\projects\Movie Management\Movie Management\bin\Release\Microsoft.Threading.Tasks.dll
+d:\projects\Movie Management\Movie Management\bin\Release\Microsoft.Threading.Tasks.Extensions.dll
+d:\projects\Movie Management\Movie Management\bin\Release\Newtonsoft.Json.dll
+d:\projects\Movie Management\Movie Management\bin\Release\System.Net.Http.Extensions.dll
+d:\projects\Movie Management\Movie Management\bin\Release\System.Net.Http.Primitives.dll
+d:\projects\Movie Management\Movie Management\bin\Release\Zlib.Portable.dll
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.pdb
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.xml
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.Auth.pdb
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.Auth.xml
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.Auth.PlatformServices.pdb
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.Auth.PlatformServices.xml
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.Core.pdb
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.Core.xml
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.PlatformServices.pdb
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.PlatformServices.xml
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.YouTube.v3.pdb
+d:\projects\Movie Management\Movie Management\bin\Release\Google.Apis.YouTube.v3.xml
+d:\projects\Movie Management\Movie Management\bin\Release\HtmlAgilityPack.pdb
+d:\projects\Movie Management\Movie Management\bin\Release\HtmlAgilityPack.xml
+d:\projects\Movie Management\Movie Management\bin\Release\log4net.xml
+d:\projects\Movie Management\Movie Management\bin\Release\Microsoft.Threading.Tasks.xml
+d:\projects\Movie Management\Movie Management\bin\Release\Microsoft.Threading.Tasks.Extensions.xml
+d:\projects\Movie Management\Movie Management\bin\Release\Newtonsoft.Json.xml
+d:\projects\Movie Management\Movie Management\bin\Release\System.Net.Http.Extensions.xml
+d:\projects\Movie Management\Movie Management\bin\Release\System.Net.Http.Primitives.xml
+d:\projects\Movie Management\Movie Management\bin\Release\Zlib.Portable.pdb
+d:\projects\Movie Management\Movie Management\bin\Release\Interop.AXVLC.dll
+d:\projects\Movie Management\Movie Management\bin\Release\AxInterop.AXVLC.dll
+d:\projects\Movie Management\Movie Management\obj\Release\Video Magination.csproj.App.config
+d:\projects\Movie Management\Movie Management\obj\Release\Interop.AXVLC.dll
+d:\projects\Movie Management\Movie Management\obj\Release\Interop.Shell32.dll
+d:\projects\Movie Management\Movie Management\obj\Release\AxInterop.AXVLC.dll
+d:\projects\Movie Management\Movie Management\obj\Release\Video Magination.csproj.ResolveComReference.cache
+d:\projects\Movie Management\Movie Management\obj\Release\Movie_Management.Form1.resources
+d:\projects\Movie Management\Movie Management\obj\Release\Movie_Management.IMDBGenres.resources
+d:\projects\Movie Management\Movie Management\obj\Release\Movie_Management.MovieCleaner.resources
+d:\projects\Movie Management\Movie Management\obj\Release\Movie_Management.Properties.Resources.resources
+d:\projects\Movie Management\Movie Management\obj\Release\Movie_Management.TrailersForm.resources
+d:\projects\Movie Management\Movie Management\obj\Release\Video Magination.csproj.GenerateResource.Cache
+d:\projects\Movie Management\Movie Management\obj\Release\Movie Management.exe
+d:\projects\Movie Management\Movie Management\obj\Release\Movie Management.pdb
+d:\projects\Movie Management\Movie Management\obj\Release\Video Magination.csprojResolveAssemblyReference.cache

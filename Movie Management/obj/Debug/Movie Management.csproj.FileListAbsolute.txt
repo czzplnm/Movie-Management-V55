@@ -1,0 +1,18 @@
+d:\projects\Movie Management\Movie Management\bin\Debug\Movie Management.exe.config
+d:\projects\Movie Management\Movie Management\bin\Debug\Movie Management.exe
+d:\projects\Movie Management\Movie Management\bin\Debug\Movie Management.pdb
+d:\projects\Movie Management\Movie Management\obj\Debug\Movie Management.csprojResolveAssemblyReference.cache
+d:\projects\Movie Management\Movie Management\obj\Debug\Movie_Management.Form1.resources
+d:\projects\Movie Management\Movie Management\obj\Debug\Movie_Management.Properties.Resources.resources
+d:\projects\Movie Management\Movie Management\obj\Debug\Movie Management.csproj.GenerateResource.Cache
+d:\projects\Movie Management\Movie Management\obj\Debug\Movie Management.exe
+d:\projects\Movie Management\Movie Management\obj\Debug\Movie Management.pdb
+d:\projects\Movie Management\Movie Management\obj\Debug\Movie_Management.IMDBGenres.resources
+d:\projects\Movie Management\Movie Management\bin\Debug\HtmlAgilityPack.dll
+d:\projects\Movie Management\Movie Management\bin\Debug\HtmlAgilityPack.pdb
+d:\projects\Movie Management\Movie Management\bin\Debug\HtmlAgilityPack.xml
+d:\projects\Movie Management\Movie Management\obj\Debug\Interop.AXVLC.dll
+d:\projects\Movie Management\Movie Management\obj\Debug\AxInterop.AXVLC.dll
+d:\projects\Movie Management\Movie Management\obj\Debug\Movie Management.csproj.ResolveComReference.cache
+d:\projects\Movie Management\Movie Management\bin\Debug\Interop.AXVLC.dll
+d:\projects\Movie Management\Movie Management\bin\Debug\AxInterop.AXVLC.dll

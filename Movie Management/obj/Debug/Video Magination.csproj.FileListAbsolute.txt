@@ -1,0 +1,51 @@
+D:\projects\Movie Management\Movie Management\obj\Debug\Video Magination.csproj.App.config
+D:\projects\Movie Management\Movie Management\obj\Debug\Interop.Shell32.dll
+D:\projects\Movie Management\Movie Management\obj\Debug\Video Magination.csproj.ResolveComReference.cache
+D:\projects\Movie Management\Movie Management\obj\Debug\Movie_Management.Form1.resources
+D:\projects\Movie Management\Movie Management\obj\Debug\Movie_Management.IMDBGenres.resources
+D:\projects\Movie Management\Movie Management\obj\Debug\Movie_Management.MovieCleaner.resources
+D:\projects\Movie Management\Movie Management\obj\Debug\Movie_Management.Properties.Resources.resources
+D:\projects\Movie Management\Movie Management\obj\Debug\Movie_Management.TrailersForm.resources
+D:\projects\Movie Management\Movie Management\obj\Debug\Video Magination.csproj.GenerateResource.Cache
+D:\projects\Movie Management\Movie Management\bin\Debug\Movie Management.exe.config
+D:\projects\Movie Management\Movie Management\bin\Debug\Movie Management.exe
+D:\projects\Movie Management\Movie Management\bin\Debug\Movie Management.pdb
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.Auth.dll
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.Core.dll
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.dll
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.PlatformServices.dll
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.YouTube.v3.dll
+D:\projects\Movie Management\Movie Management\bin\Debug\log4net.dll
+D:\projects\Movie Management\Movie Management\bin\Debug\Microsoft.Threading.Tasks.dll
+D:\projects\Movie Management\Movie Management\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+D:\projects\Movie Management\Movie Management\bin\Debug\Newtonsoft.Json.dll
+D:\projects\Movie Management\Movie Management\bin\Debug\RestSharp.dll
+D:\projects\Movie Management\Movie Management\bin\Debug\System.Net.Http.Extensions.dll
+D:\projects\Movie Management\Movie Management\bin\Debug\System.Net.Http.Primitives.dll
+D:\projects\Movie Management\Movie Management\bin\Debug\TMDbLib.dll
+D:\projects\Movie Management\Movie Management\bin\Debug\Zlib.Portable.dll
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.pdb
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.xml
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.Auth.pdb
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.Auth.xml
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.Core.pdb
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.Core.xml
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.PlatformServices.pdb
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.PlatformServices.xml
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.YouTube.v3.pdb
+D:\projects\Movie Management\Movie Management\bin\Debug\Google.Apis.YouTube.v3.xml
+D:\projects\Movie Management\Movie Management\bin\Debug\log4net.xml
+D:\projects\Movie Management\Movie Management\bin\Debug\Microsoft.Threading.Tasks.xml
+D:\projects\Movie Management\Movie Management\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+D:\projects\Movie Management\Movie Management\bin\Debug\Newtonsoft.Json.xml
+D:\projects\Movie Management\Movie Management\bin\Debug\RestSharp.xml
+D:\projects\Movie Management\Movie Management\bin\Debug\System.Net.Http.Extensions.xml
+D:\projects\Movie Management\Movie Management\bin\Debug\System.Net.Http.Primitives.xml
+D:\projects\Movie Management\Movie Management\bin\Debug\TMDbLib.pdb
+D:\projects\Movie Management\Movie Management\bin\Debug\Zlib.Portable.pdb
+D:\projects\Movie Management\Movie Management\obj\Debug\Movie Management.exe
+D:\projects\Movie Management\Movie Management\obj\Debug\Movie Management.pdb
+D:\projects\Movie Management\Movie Management\obj\Debug\Video Magination.csprojResolveAssemblyReference.cache
